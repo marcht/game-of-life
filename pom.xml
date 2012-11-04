@@ -247,6 +247,7 @@
                         </configuration>
                         <executions>
                             <execution>
+                                <phase>package</phase>
                                 <goals>
                                     <goal>clean</goal>
                                     <goal>check</goal>
