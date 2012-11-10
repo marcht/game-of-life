@@ -245,6 +245,7 @@
                                 <format>xml</format>
                             </formats>
                             <aggregate>true</aggregate>
+                            <forceMojoExecution>true</forceMojoExecution>
                         </configuration>
                         <executions>
                             <execution>
