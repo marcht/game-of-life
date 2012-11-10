@@ -244,6 +244,7 @@
                                 <format>html</format>
                                 <format>xml</format>
                             </formats>
+                            <aggregate>true</aggregate>
                         </configuration>
                         <executions>
                             <execution>
